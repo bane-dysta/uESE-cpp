@@ -1,0 +1,1750 @@
+[
+  {
+    "solvent": "2-methylpyridine",
+    "class": "C",
+    "reference": {
+      "electrostatic": -61.96,
+      "correction": 11.64,
+      "total": -50.32
+    },
+    "cpp": {
+      "electrostatic": -61.9550730978025,
+      "correction": 11.6424638357548,
+      "total": -50.3126092620476
+    },
+    "errors": {
+      "electrostatic": 0.00492690219750358,
+      "correction": 0.0024638357547992484,
+      "total": 0.0073907379523987515
+    }
+  },
+  {
+    "solvent": "4-methyl-2-pentanone",
+    "class": "C",
+    "reference": {
+      "electrostatic": -63.53,
+      "correction": 11.49,
+      "total": -52.04
+    },
+    "cpp": {
+      "electrostatic": -63.5303940261435,
+      "correction": 11.49203590872,
+      "total": -52.0383581174235
+    },
+    "errors": {
+      "electrostatic": -0.0003940261434962622,
+      "correction": 0.0020359087199999237,
+      "total": 0.0016418825765001088
+    }
+  },
+  {
+    "solvent": "aceticacid",
+    "class": "D",
+    "reference": {
+      "electrostatic": -53.58,
+      "correction": 1.7,
+      "total": -51.88
+    },
+    "cpp": {
+      "electrostatic": -53.5756944813005,
+      "correction": 1.70130926964717,
+      "total": -51.8743852116533
+    },
+    "errors": {
+      "electrostatic": 0.004305518699496247,
+      "correction": 0.0013092696471701526,
+      "total": 0.005614788346704813
+    }
+  },
+  {
+    "solvent": "acetonitrile",
+    "class": "C",
+    "reference": {
+      "electrostatic": -66.95,
+      "correction": 12.39,
+      "total": -54.55
+    },
+    "cpp": {
+      "electrostatic": -66.9449646533987,
+      "correction": 12.3946034709292,
+      "total": -54.5503611824695
+    },
+    "errors": {
+      "electrostatic": 0.005035346601303559,
+      "correction": 0.004603470929199105,
+      "total": -0.0003611824695042287
+    }
+  },
+  {
+    "solvent": "acetophenone",
+    "class": "C",
+    "reference": {
+      "electrostatic": -64.93,
+      "correction": 11.83,
+      "total": -53.1
+    },
+    "cpp": {
+      "electrostatic": -64.9256287096672,
+      "correction": 11.8276058997978,
+      "total": -53.0980228098694
+    },
+    "errors": {
+      "electrostatic": 0.004371290332812805,
+      "correction": -0.002394100202199212,
+      "total": 0.001977190130602935
+    }
+  },
+  {
+    "solvent": "aniline",
+    "class": "D",
+    "reference": {
+      "electrostatic": -54.89,
+      "correction": 1.68,
+      "total": -53.22
+    },
+    "cpp": {
+      "electrostatic": -54.8914547561777,
+      "correction": 1.6781665116418,
+      "total": -53.2132882445359
+    },
+    "errors": {
+      "electrostatic": -0.0014547561777007445,
+      "correction": -0.001833488358199853,
+      "total": 0.006711755464095859
+    }
+  },
+  {
+    "solvent": "anisole",
+    "class": "D",
+    "reference": {
+      "electrostatic": -47.01,
+      "correction": 1.46,
+      "total": -45.55
+    },
+    "cpp": {
+      "electrostatic": -47.0084477905434,
+      "correction": 1.45831031059084,
+      "total": -45.5501374799525
+    },
+    "errors": {
+      "electrostatic": 0.0015522094565980638,
+      "correction": -0.0016896894091600334,
+      "total": -0.00013747995249957512
+    }
+  },
+  {
+    "solvent": "benzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -31.59,
+      "correction": 0.77,
+      "total": -30.81
+    },
+    "cpp": {
+      "electrostatic": -31.5860888245481,
+      "correction": 0.775598949432574,
+      "total": -30.8104898751155
+    },
+    "errors": {
+      "electrostatic": 0.0039111754519005615,
+      "correction": 0.005598949432573996,
+      "total": -0.0004898751155018033
+    }
+  },
+  {
+    "solvent": "benzonitrile",
+    "class": "C",
+    "reference": {
+      "electrostatic": -66.18,
+      "correction": 11.78,
+      "total": -54.41
+    },
+    "cpp": {
+      "electrostatic": -66.1836103260169,
+      "correction": 11.781320383787,
+      "total": -54.4022899422299
+    },
+    "errors": {
+      "electrostatic": -0.0036103260168971474,
+      "correction": 0.0013203837870001678,
+      "total": 0.007710057770097478
+    }
+  },
+  {
+    "solvent": "benzylalcohol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -63.35,
+      "correction": -0.21,
+      "total": -63.56
+    },
+    "cpp": {
+      "electrostatic": -63.3458219231025,
+      "correction": -0.210928926403102,
+      "total": -63.5567508495056
+    },
+    "errors": {
+      "electrostatic": 0.004178076897503047,
+      "correction": -0.0009289264031020206,
+      "total": 0.0032491504944047733
+    }
+  },
+  {
+    "solvent": "bromobenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -51.35,
+      "correction": 1.85,
+      "total": -49.5
+    },
+    "cpp": {
+      "electrostatic": -51.3506514979618,
+      "correction": 1.85173719668203,
+      "total": -49.4989143012798
+    },
+    "errors": {
+      "electrostatic": -0.0006514979617975314,
+      "correction": 0.0017371966820298734,
+      "total": 0.0010856987202032542
+    }
+  },
+  {
+    "solvent": "bromoethane",
+    "class": "C",
+    "reference": {
+      "electrostatic": -61.23,
+      "correction": 11.26,
+      "total": -49.97
+    },
+    "cpp": {
+      "electrostatic": -61.2306058098445,
+      "correction": 11.2606083286663,
+      "total": -49.9699974811782
+    },
+    "errors": {
+      "electrostatic": -0.0006058098445009819,
+      "correction": 0.0006083286663010057,
+      "total": 2.5188218018001862e-06
+    }
+  },
+  {
+    "solvent": "bromoform",
+    "class": "D",
+    "reference": {
+      "electrostatic": -47.12,
+      "correction": 1.45,
+      "total": -45.68
+    },
+    "cpp": {
+      "electrostatic": -47.1194191779722,
+      "correction": 1.44673893158815,
+      "total": -45.672680246384
+    },
+    "errors": {
+      "electrostatic": 0.0005808220277998544,
+      "correction": -0.003261068411849921,
+      "total": 0.007319753616002345
+    }
+  },
+  {
+    "solvent": "bromooctane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -50.17,
+      "correction": 2.19,
+      "total": -47.99
+    },
+    "cpp": {
+      "electrostatic": -50.1737838989922,
+      "correction": 2.18730718775982,
+      "total": -47.9864767112324
+    },
+    "errors": {
+      "electrostatic": -0.003783898992196555,
+      "correction": -0.0026928122401801424,
+      "total": 0.0035232887676031055
+    }
+  },
+  {
+    "solvent": "butanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -64.9,
+      "correction": -0.21,
+      "total": -65.11
+    },
+    "cpp": {
+      "electrostatic": -64.9010887493329,
+      "correction": -0.210928926403102,
+      "total": -65.112017675736
+    },
+    "errors": {
+      "electrostatic": -0.0010887493328937126,
+      "correction": -0.0009289264031020206,
+      "total": -0.0020176757359990916
+    }
+  },
+  {
+    "solvent": "butanone",
+    "class": "C",
+    "reference": {
+      "electrostatic": -65.1,
+      "correction": 11.68,
+      "total": -53.43
+    },
+    "cpp": {
+      "electrostatic": -65.1000209610701,
+      "correction": 11.6771779727629,
+      "total": -53.4228429883072
+    },
+    "errors": {
+      "electrostatic": -2.0961070106295665e-05,
+      "correction": -0.002822027237099789,
+      "total": 0.007157011692797255
+    }
+  },
+  {
+    "solvent": "butylacetate",
+    "class": "D",
+    "reference": {
+      "electrostatic": -50.07,
+      "correction": 1.11,
+      "total": -48.96
+    },
+    "cpp": {
+      "electrostatic": -50.0706472439145,
+      "correction": 1.11116894051036,
+      "total": -48.9594783034041
+    },
+    "errors": {
+      "electrostatic": -0.0006472439144999953,
+      "correction": 0.0011689405103598727,
+      "total": 0.0005216965959036202
+    }
+  },
+  {
+    "solvent": "butylbenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -32.75,
+      "correction": 1.12,
+      "total": -31.63
+    },
+    "cpp": {
+      "electrostatic": -32.7516893809098,
+      "correction": 1.12274031951305,
+      "total": -31.6289490613968
+    },
+    "errors": {
+      "electrostatic": -0.0016893809098021961,
+      "correction": 0.0027403195130499824,
+      "total": 0.0010509386031998247
+    }
+  },
+  {
+    "solvent": "carbondisulfide",
+    "class": "D",
+    "reference": {
+      "electrostatic": -35.66,
+      "correction": 1.27,
+      "total": -34.39
+    },
+    "cpp": {
+      "electrostatic": -35.6608224134459,
+      "correction": 1.27316824654792,
+      "total": -34.387654166898
+    },
+    "errors": {
+      "electrostatic": -0.0008224134459027255,
+      "correction": 0.0031682465479199173,
+      "total": 0.002345833101998096
+    }
+  },
+  {
+    "solvent": "carbontet",
+    "class": "D",
+    "reference": {
+      "electrostatic": -31.0,
+      "correction": 0.91,
+      "total": -30.09
+    },
+    "cpp": {
+      "electrostatic": -31.0037932445947,
+      "correction": 0.914455497464765,
+      "total": -30.0893377471299
+    },
+    "errors": {
+      "electrostatic": -0.003793244594699985,
+      "correction": 0.004455497464764924,
+      "total": 0.0006622528701001329
+    }
+  },
+  {
+    "solvent": "chlorobenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -52.2,
+      "correction": 1.82,
+      "total": -50.39
+    },
+    "cpp": {
+      "electrostatic": -52.2029948565692,
+      "correction": 1.81702305967399,
+      "total": -50.3859717968952
+    },
+    "errors": {
+      "electrostatic": -0.002994856569195292,
+      "correction": -0.0029769403260100358,
+      "total": 0.00402820310480223
+    }
+  },
+  {
+    "solvent": "chloroform",
+    "class": "D",
+    "reference": {
+      "electrostatic": -49.05,
+      "correction": 1.18,
+      "total": -47.87
+    },
+    "cpp": {
+      "electrostatic": -49.0502039863318,
+      "correction": 1.18059721452646,
+      "total": -47.8696067718053
+    },
+    "errors": {
+      "electrostatic": -0.00020398633180462866,
+      "correction": 0.0005972145264601103,
+      "total": 0.00039322819469589376
+    }
+  },
+  {
+    "solvent": "chlorohexane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -52.86,
+      "correction": 2.08,
+      "total": -50.77
+    },
+    "cpp": {
+      "electrostatic": -52.8552278289942,
+      "correction": 2.08316477673568,
+      "total": -50.7720630522585
+    },
+    "errors": {
+      "electrostatic": 0.004772171005797077,
+      "correction": 0.0031647767356797196,
+      "total": -0.0020630522584994537
+    }
+  },
+  {
+    "solvent": "cyclohexane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -27.82,
+      "correction": 1.25,
+      "total": -26.57
+    },
+    "cpp": {
+      "electrostatic": -27.8209066780681,
+      "correction": 1.25002548854255,
+      "total": -26.5708811895255
+    },
+    "errors": {
+      "electrostatic": -0.0009066780680981879,
+      "correction": 2.548854254991184e-05,
+      "total": -0.0008811895255007585
+    }
+  },
+  {
+    "solvent": "cyclohexanone",
+    "class": "C",
+    "reference": {
+      "electrostatic": -64.47,
+      "correction": 11.44,
+      "total": -53.02
+    },
+    "cpp": {
+      "electrostatic": -64.4650778680161,
+      "correction": 11.4457503927092,
+      "total": -53.0193274753068
+    },
+    "errors": {
+      "electrostatic": 0.004922131983903455,
+      "correction": 0.00575039270920108,
+      "total": 0.0006725246932006712
+    }
+  },
+  {
+    "solvent": "decalin",
+    "class": "D",
+    "reference": {
+      "electrostatic": -30.55,
+      "correction": 1.48,
+      "total": -29.07
+    },
+    "cpp": {
+      "electrostatic": -30.5542848415858,
+      "correction": 1.4814530685962,
+      "total": -29.0728317729896
+    },
+    "errors": {
+      "electrostatic": -0.004284841585800336,
+      "correction": 0.00145306859619998,
+      "total": -0.002831772989598136
+    }
+  },
+  {
+    "solvent": "decane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -27.29,
+      "correction": 1.29,
+      "total": -26.0
+    },
+    "cpp": {
+      "electrostatic": -27.2938111183447,
+      "correction": 1.29631100455328,
+      "total": -25.9975001137914
+    },
+    "errors": {
+      "electrostatic": -0.0038111183447000485,
+      "correction": 0.006311004553279931,
+      "total": 0.0024998862086000884
+    }
+  },
+  {
+    "solvent": "decanol",
+    "class": "D",
+    "reference": {
+      "electrostatic": -56.01,
+      "correction": 1.31,
+      "total": -54.7
+    },
+    "cpp": {
+      "electrostatic": -56.0098846910685,
+      "correction": 1.30788238355596,
+      "total": -54.7020023075125
+    },
+    "errors": {
+      "electrostatic": 0.00011530893149824806,
+      "correction": -0.0021176164440399603,
+      "total": -0.0020023075124981915
+    }
+  },
+  {
+    "solvent": "dibromoethane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -49.85,
+      "correction": 1.68,
+      "total": -48.18
+    },
+    "cpp": {
+      "electrostatic": -49.8532212909525,
+      "correction": 1.6781665116418,
+      "total": -48.1750547793107
+    },
+    "errors": {
+      "electrostatic": -0.0032212909524957922,
+      "correction": -0.001833488358199853,
+      "total": 0.004945220689300811
+    }
+  },
+  {
+    "solvent": "dibutylether",
+    "class": "D",
+    "reference": {
+      "electrostatic": -39.75,
+      "correction": 1.28,
+      "total": -38.47
+    },
+    "cpp": {
+      "electrostatic": -39.7506650242013,
+      "correction": 1.2847396255506,
+      "total": -38.4659253986507
+    },
+    "errors": {
+      "electrostatic": -0.0006650242012966601,
+      "correction": 0.004739625550600035,
+      "total": 0.004074601349302043
+    }
+  },
+  {
+    "solvent": "dichloroethane",
+    "class": "C",
+    "reference": {
+      "electrostatic": -62.07,
+      "correction": 11.86,
+      "total": -50.21
+    },
+    "cpp": {
+      "electrostatic": -62.0724192896365,
+      "correction": 11.8623200368058,
+      "total": -50.2100992528307
+    },
+    "errors": {
+      "electrostatic": -0.0024192896364994,
+      "correction": 0.002320036805800285,
+      "total": -9.925283070089108e-05
+    }
+  },
+  {
+    "solvent": "diethylether",
+    "class": "D",
+    "reference": {
+      "electrostatic": -47.08,
+      "correction": 1.12,
+      "total": -45.96
+    },
+    "cpp": {
+      "electrostatic": -47.0790292999601,
+      "correction": 1.12274031951305,
+      "total": -45.9562889804471
+    },
+    "errors": {
+      "electrostatic": 0.0009707000399004073,
+      "correction": 0.0027403195130499824,
+      "total": 0.003711019552902428
+    }
+  },
+  {
+    "solvent": "diisopropylether",
+    "class": "D",
+    "reference": {
+      "electrostatic": -42.25,
+      "correction": 0.91,
+      "total": -41.34
+    },
+    "cpp": {
+      "electrostatic": -42.2479910699623,
+      "correction": 0.914455497464765,
+      "total": -41.3335355724975
+    },
+    "errors": {
+      "electrostatic": 0.0020089300376966435,
+      "correction": 0.004455497464764924,
+      "total": 0.006464427502500314
+    }
+  },
+  {
+    "solvent": "dimethylacetamide",
+    "class": "C",
+    "reference": {
+      "electrostatic": -67.05,
+      "correction": 12.03,
+      "total": -55.02
+    },
+    "cpp": {
+      "electrostatic": -67.0518587262566,
+      "correction": 12.035890721846,
+      "total": -55.0159680044105
+    },
+    "errors": {
+      "electrostatic": -0.0018587262566001073,
+      "correction": 0.005890721846000702,
+      "total": 0.00403199558950007
+    }
+  },
+  {
+    "solvent": "dimethylformamide",
+    "class": "C",
+    "reference": {
+      "electrostatic": -67.03,
+      "correction": 12.02,
+      "total": -55.0
+    },
+    "cpp": {
+      "electrostatic": -67.0243461946483,
+      "correction": 12.0243193428434,
+      "total": -55.0000268518049
+    },
+    "errors": {
+      "electrostatic": 0.005653805351698793,
+      "correction": 0.00431934284340052,
+      "total": -2.6851804896921294e-05
+    }
+  },
+  {
+    "solvent": "dimethylpyridine",
+    "class": "D",
+    "reference": {
+      "electrostatic": -55.41,
+      "correction": 1.71,
+      "total": -53.7
+    },
+    "cpp": {
+      "electrostatic": -55.4113570351088,
+      "correction": 1.71288064864985,
+      "total": -53.698476386459
+    },
+    "errors": {
+      "electrostatic": -0.0013570351088034727,
+      "correction": 0.0028806486498500483,
+      "total": 0.001523613541003499
+    }
+  },
+  {
+    "solvent": "dimethylsulfoxide",
+    "class": "C",
+    "reference": {
+      "electrostatic": -67.41,
+      "correction": 12.18,
+      "total": -55.22
+    },
+    "cpp": {
+      "electrostatic": -67.4040079582639,
+      "correction": 12.1863186488809,
+      "total": -55.2176893093829
+    },
+    "errors": {
+      "electrostatic": 0.005992041736092801,
+      "correction": 0.006318648880899502,
+      "total": 0.0023106906171008745
+    }
+  },
+  {
+    "solvent": "dodecane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -27.65,
+      "correction": 1.29,
+      "total": -26.35
+    },
+    "cpp": {
+      "electrostatic": -27.648892839297,
+      "correction": 1.29631100455328,
+      "total": -26.3525818347437
+    },
+    "errors": {
+      "electrostatic": 0.0011071607029968789,
+      "correction": 0.006311004553279931,
+      "total": -0.002581834743697442
+    }
+  },
+  {
+    "solvent": "ethanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -66.1,
+      "correction": -0.21,
+      "total": -66.32
+    },
+    "cpp": {
+      "electrostatic": -66.1034744518283,
+      "correction": -0.210928926403102,
+      "total": -66.3144033782314
+    },
+    "errors": {
+      "electrostatic": -0.003474451828310521,
+      "correction": -0.0009289264031020206,
+      "total": 0.005596621768589216
+    }
+  },
+  {
+    "solvent": "ethoxybenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -46.8,
+      "correction": 1.56,
+      "total": -45.24
+    },
+    "cpp": {
+      "electrostatic": -46.7981801925478,
+      "correction": 1.56245272161497,
+      "total": -45.2357274709329
+    },
+    "errors": {
+      "electrostatic": 0.0018198074522004504,
+      "correction": 0.0024527216149698994,
+      "total": 0.004272529067101516
+    }
+  },
+  {
+    "solvent": "ethylacetate",
+    "class": "D",
+    "reference": {
+      "electrostatic": -52.95,
+      "correction": 0.91,
+      "total": -52.04
+    },
+    "cpp": {
+      "electrostatic": -52.9480853341475,
+      "correction": 0.914455497464765,
+      "total": -52.0336298366827
+    },
+    "errors": {
+      "electrostatic": 0.0019146658525031057,
+      "correction": 0.004455497464764924,
+      "total": 0.006370163317299671
+    }
+  },
+  {
+    "solvent": "ethylbenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -33.66,
+      "correction": 0.99,
+      "total": -32.67
+    },
+    "cpp": {
+      "electrostatic": -33.6615716215416,
+      "correction": 0.99545515048354,
+      "total": -32.6661164710581
+    },
+    "errors": {
+      "electrostatic": -0.0015716215416006207,
+      "correction": 0.005455150483540061,
+      "total": 0.003883528941898362
+    }
+  },
+  {
+    "solvent": "fluorobenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -51.42,
+      "correction": 1.49,
+      "total": -49.93
+    },
+    "cpp": {
+      "electrostatic": -51.4234717560062,
+      "correction": 1.49302444759888,
+      "total": -49.9304473084074
+    },
+    "errors": {
+      "electrostatic": -0.0034717560061992003,
+      "correction": 0.003024447598880098,
+      "total": -0.00044730840740214717
+    }
+  },
+  {
+    "solvent": "fluoroctane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -45.34,
+      "correction": 1.85,
+      "total": -43.49
+    },
+    "cpp": {
+      "electrostatic": -45.3413194105876,
+      "correction": 1.85173719668203,
+      "total": -43.4895822139055
+    },
+    "errors": {
+      "electrostatic": -0.0013194105875982132,
+      "correction": 0.0017371966820298734,
+      "total": 0.0004177860945020484
+    }
+  },
+  {
+    "solvent": "heptane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -26.03,
+      "correction": 1.12,
+      "total": -24.91
+    },
+    "cpp": {
+      "electrostatic": -26.0298074396878,
+      "correction": 1.12274031951305,
+      "total": -24.9070671201748
+    },
+    "errors": {
+      "electrostatic": 0.00019256031220038494,
+      "correction": 0.0027403195130499824,
+      "total": 0.002932879825198853
+    }
+  },
+  {
+    "solvent": "heptanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -62.79,
+      "correction": -0.21,
+      "total": -63.0
+    },
+    "cpp": {
+      "electrostatic": -62.7910606165961,
+      "correction": -0.210928926403102,
+      "total": -63.0019895429992
+    },
+    "errors": {
+      "electrostatic": -0.0010606165960993508,
+      "correction": -0.0009289264031020206,
+      "total": -0.0019895429991976243
+    }
+  },
+  {
+    "solvent": "hexadecane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -28.2,
+      "correction": 1.36,
+      "total": -26.84
+    },
+    "cpp": {
+      "electrostatic": -28.2039391470172,
+      "correction": 1.36573927856938,
+      "total": -26.8381998684478
+    },
+    "errors": {
+      "electrostatic": -0.003939147017199218,
+      "correction": 0.005739278569379946,
+      "total": 0.0018001315522013783
+    }
+  },
+  {
+    "solvent": "hexadecyliodide",
+    "class": "D",
+    "reference": {
+      "electrostatic": -43.26,
+      "correction": 1.6,
+      "total": -41.67
+    },
+    "cpp": {
+      "electrostatic": -43.2632161512023,
+      "correction": 1.59716685862302,
+      "total": -41.6660492925793
+    },
+    "errors": {
+      "electrostatic": -0.003216151202302342,
+      "correction": -0.0028331413769799862,
+      "total": 0.003950707420699473
+    }
+  },
+  {
+    "solvent": "hexane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -25.5,
+      "correction": 1.16,
+      "total": -24.35
+    },
+    "cpp": {
+      "electrostatic": -25.5009670091504,
+      "correction": 1.15745445652109,
+      "total": -24.3435125526293
+    },
+    "errors": {
+      "electrostatic": -0.0009670091504005995,
+      "correction": -0.002545543478909895,
+      "total": 0.006487447370702171
+    }
+  },
+  {
+    "solvent": "hexanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -63.37,
+      "correction": -0.21,
+      "total": -63.58
+    },
+    "cpp": {
+      "electrostatic": -63.3693785882922,
+      "correction": -0.210928926403102,
+      "total": -63.5803075146953
+    },
+    "errors": {
+      "electrostatic": 0.0006214117077973924,
+      "correction": -0.0009289264031020206,
+      "total": -0.00030751469530088116
+    }
+  },
+  {
+    "solvent": "iodobenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -48.41,
+      "correction": 1.83,
+      "total": -46.58
+    },
+    "cpp": {
+      "electrostatic": -48.4048317564146,
+      "correction": 1.82859443867667,
+      "total": -46.5762373177379
+    },
+    "errors": {
+      "electrostatic": 0.005168243585394805,
+      "correction": -0.00140556132333014,
+      "total": 0.003762682262099304
+    }
+  },
+  {
+    "solvent": "isobutanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -64.77,
+      "correction": -0.21,
+      "total": -64.98
+    },
+    "cpp": {
+      "electrostatic": -64.7694629321068,
+      "correction": -0.210928926403102,
+      "total": -64.9803918585099
+    },
+    "errors": {
+      "electrostatic": 0.0005370678931910788,
+      "correction": -0.0009289264031020206,
+      "total": -0.0003918585099000893
+    }
+  },
+  {
+    "solvent": "isooctane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -26.46,
+      "correction": 1.13,
+      "total": -25.33
+    },
+    "cpp": {
+      "electrostatic": -26.4607558691898,
+      "correction": 1.13431169851573,
+      "total": -25.326444170674
+    },
+    "errors": {
+      "electrostatic": -0.0007558691897990855,
+      "correction": 0.0043116985157301,
+      "total": 0.00355582932599674
+    }
+  },
+  {
+    "solvent": "isopropanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -65.3,
+      "correction": -0.21,
+      "total": -65.51
+    },
+    "cpp": {
+      "electrostatic": -65.2996535762678,
+      "correction": -0.210928926403102,
+      "total": -65.5105825026709
+    },
+    "errors": {
+      "electrostatic": 0.0003464237321963992,
+      "correction": -0.0009289264031020206,
+      "total": -0.0005825026708947689
+    }
+  },
+  {
+    "solvent": "isopropylbenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -32.89,
+      "correction": 1.1,
+      "total": -31.8
+    },
+    "cpp": {
+      "electrostatic": -32.8925989979175,
+      "correction": 1.09959756150768,
+      "total": -31.7930014364098
+    },
+    "errors": {
+      "electrostatic": -0.002598997917502288,
+      "correction": -0.00040243849232002304,
+      "total": 0.0069985635902014565
+    }
+  },
+  {
+    "solvent": "isopropyltoluene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -31.06,
+      "correction": 1.04,
+      "total": -30.02
+    },
+    "cpp": {
+      "electrostatic": -31.0620095349119,
+      "correction": 1.04174066649427,
+      "total": -30.0202688684176
+    },
+    "errors": {
+      "electrostatic": -0.0020095349119024775,
+      "correction": 0.0017406664942700711,
+      "total": -0.0002688684175993217
+    }
+  },
+  {
+    "solvent": "mcresol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -63.34,
+      "correction": -0.21,
+      "total": -63.55
+    },
+    "cpp": {
+      "electrostatic": -63.3383105873109,
+      "correction": -0.210928926403102,
+      "total": -63.549239513714
+    },
+    "errors": {
+      "electrostatic": 0.0016894126891031647,
+      "correction": -0.0009289264031020206,
+      "total": 0.0007604862859977857
+    }
+  },
+  {
+    "solvent": "mesitylene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -31.51,
+      "correction": 0.9,
+      "total": -30.61
+    },
+    "cpp": {
+      "electrostatic": -31.5105672298675,
+      "correction": 0.902884118462079,
+      "total": -30.6076831114054
+    },
+    "errors": {
+      "electrostatic": -0.0005672298674994636,
+      "correction": 0.0028841184620790328,
+      "total": 0.00231688859459922
+    }
+  },
+  {
+    "solvent": "methanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -66.76,
+      "correction": -0.21,
+      "total": -66.98
+    },
+    "cpp": {
+      "electrostatic": -66.7629920967164,
+      "correction": -0.210928926403102,
+      "total": -66.9739210231195
+    },
+    "errors": {
+      "electrostatic": -0.002992096716397441,
+      "correction": -0.0009289264031020206,
+      "total": 0.006078976880502296
+    }
+  },
+  {
+    "solvent": "methoxyethanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -64.87,
+      "correction": -0.21,
+      "total": -65.08
+    },
+    "cpp": {
+      "electrostatic": -64.870522930759,
+      "correction": -0.210928926403102,
+      "total": -65.0814518571621
+    },
+    "errors": {
+      "electrostatic": -0.0005229307589900145,
+      "correction": -0.0009289264031020206,
+      "total": -0.0014518571620953935
+    }
+  },
+  {
+    "solvent": "methylenechloride",
+    "class": "D",
+    "reference": {
+      "electrostatic": -57.92,
+      "correction": 1.68,
+      "total": -56.24
+    },
+    "cpp": {
+      "electrostatic": -57.9191694857744,
+      "correction": 1.6781665116418,
+      "total": -56.2410029741326
+    },
+    "errors": {
+      "electrostatic": 0.0008305142256048725,
+      "correction": -0.001833488358199853,
+      "total": -0.0010029741325965347
+    }
+  },
+  {
+    "solvent": "methylformamide",
+    "class": "C",
+    "reference": {
+      "electrostatic": -68.5,
+      "correction": 12.21,
+      "total": -56.29
+    },
+    "cpp": {
+      "electrostatic": -68.4955296711032,
+      "correction": 12.2094614068863,
+      "total": -56.2860682642169
+    },
+    "errors": {
+      "electrostatic": 0.004470328896800879,
+      "correction": -0.0005385931137009692,
+      "total": 0.003931735783098134
+    }
+  },
+  {
+    "solvent": "nitrobenzene",
+    "class": "C",
+    "reference": {
+      "electrostatic": -66.9,
+      "correction": 12.29,
+      "total": -54.61
+    },
+    "cpp": {
+      "electrostatic": -66.8962304934295,
+      "correction": 12.2904610599051,
+      "total": -54.6057694335245
+    },
+    "errors": {
+      "electrostatic": 0.0037695065705065645,
+      "correction": 0.00046105990510092454,
+      "total": 0.004230566475499131
+    }
+  },
+  {
+    "solvent": "nitroethane",
+    "class": "C",
+    "reference": {
+      "electrostatic": -66.44,
+      "correction": 12.05,
+      "total": -54.4
+    },
+    "cpp": {
+      "electrostatic": -66.4402402824851,
+      "correction": 12.0474621008487,
+      "total": -54.3927781816364
+    },
+    "errors": {
+      "electrostatic": -0.00024028248510887806,
+      "correction": -0.002537899151301204,
+      "total": 0.00722181836359681
+    }
+  },
+  {
+    "solvent": "nitromethane",
+    "class": "C",
+    "reference": {
+      "electrostatic": -66.99,
+      "correction": 12.45,
+      "total": -54.54
+    },
+    "cpp": {
+      "electrostatic": -66.9911085959945,
+      "correction": 12.4524603659426,
+      "total": -54.5386482300519
+    },
+    "errors": {
+      "electrostatic": -0.0011085959945091872,
+      "correction": 0.002460365942599907,
+      "total": 0.0013517699481013778
+    }
+  },
+  {
+    "solvent": "nonane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -26.89,
+      "correction": 1.24,
+      "total": -25.65
+    },
+    "cpp": {
+      "electrostatic": -26.8865346833023,
+      "correction": 1.23845410953987,
+      "total": -25.6480805737624
+    },
+    "errors": {
+      "electrostatic": 0.00346531669769945,
+      "correction": -0.0015458904601299839,
+      "total": 0.0019194262375989979
+    }
+  },
+  {
+    "solvent": "nonanol",
+    "class": "D",
+    "reference": {
+      "electrostatic": -57.52,
+      "correction": 1.49,
+      "total": -56.03
+    },
+    "cpp": {
+      "electrostatic": -57.5207516915853,
+      "correction": 1.49302444759888,
+      "total": -56.0277272439865
+    },
+    "errors": {
+      "electrostatic": -0.000751691585300307,
+      "correction": 0.003024447598880098,
+      "total": 0.0022727560135038516
+    }
+  },
+  {
+    "solvent": "octane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -26.54,
+      "correction": 1.28,
+      "total": -25.26
+    },
+    "cpp": {
+      "electrostatic": -26.5441729705496,
+      "correction": 1.2847396255506,
+      "total": -25.259433344999
+    },
+    "errors": {
+      "electrostatic": -0.004172970549600308,
+      "correction": 0.004739625550600035,
+      "total": 0.0005666550010019478
+    }
+  },
+  {
+    "solvent": "octanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -61.89,
+      "correction": -0.21,
+      "total": -62.1
+    },
+    "cpp": {
+      "electrostatic": -61.8916485269089,
+      "correction": -0.210928926403102,
+      "total": -62.102577453312
+    },
+    "errors": {
+      "electrostatic": -0.0016485269089017152,
+      "correction": -0.0009289264031020206,
+      "total": -0.0025774533119999887
+    }
+  },
+  {
+    "solvent": "odichlorobenzene",
+    "class": "C",
+    "reference": {
+      "electrostatic": -61.99,
+      "correction": 12.02,
+      "total": -49.96
+    },
+    "cpp": {
+      "electrostatic": -61.9838741672451,
+      "correction": 12.0243193428434,
+      "total": -49.9595548244017
+    },
+    "errors": {
+      "electrostatic": 0.006125832754904081,
+      "correction": 0.00431934284340052,
+      "total": 0.00044517559830126174
+    }
+  },
+  {
+    "solvent": "onitrotoluene",
+    "class": "C",
+    "reference": {
+      "electrostatic": -66.19,
+      "correction": 12.33,
+      "total": -53.86
+    },
+    "cpp": {
+      "electrostatic": -66.1917042956507,
+      "correction": 12.3367465759158,
+      "total": -53.8549577197349
+    },
+    "errors": {
+      "electrostatic": -0.001704295650696963,
+      "correction": 0.006746575915800079,
+      "total": 0.00504228026510134
+    }
+  },
+  {
+    "solvent": "pentadecane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -28.09,
+      "correction": 1.34,
+      "total": -26.75
+    },
+    "cpp": {
+      "electrostatic": -28.0931629003617,
+      "correction": 1.34259652056401,
+      "total": -26.7505663797977
+    },
+    "errors": {
+      "electrostatic": -0.003162900361701304,
+      "correction": 0.002596520564009941,
+      "total": -0.0005663797977000229
+    }
+  },
+  {
+    "solvent": "pentane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -24.67,
+      "correction": 1.11,
+      "total": -23.56
+    },
+    "cpp": {
+      "electrostatic": -24.6695301294001,
+      "correction": 1.11116894051036,
+      "total": -23.5583611888897
+    },
+    "errors": {
+      "electrostatic": 0.000469870599900446,
+      "correction": 0.0011689405103598727,
+      "total": 0.001638811110296956
+    }
+  },
+  {
+    "solvent": "pentanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -64.32,
+      "correction": -0.21,
+      "total": -64.54
+    },
+    "cpp": {
+      "electrostatic": -64.3226702365505,
+      "correction": -0.210928926403102,
+      "total": -64.5335991629536
+    },
+    "errors": {
+      "electrostatic": -0.002670236550500249,
+      "correction": -0.0009289264031020206,
+      "total": 0.006400837046399488
+    }
+  },
+  {
+    "solvent": "perfluorobenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -28.02,
+      "correction": 0.61,
+      "total": -27.41
+    },
+    "cpp": {
+      "electrostatic": -28.0238226998159,
+      "correction": 0.613599643395023,
+      "total": -27.4102230564209
+    },
+    "errors": {
+      "electrostatic": -0.003822699815899,
+      "correction": 0.0035996433950230555,
+      "total": -0.0002230564209000363
+    }
+  },
+  {
+    "solvent": "phenylether",
+    "class": "D",
+    "reference": {
+      "electrostatic": -44.45,
+      "correction": 1.64,
+      "total": -42.81
+    },
+    "cpp": {
+      "electrostatic": -44.4511612342282,
+      "correction": 1.64345237463375,
+      "total": -42.8077088595944
+    },
+    "errors": {
+      "electrostatic": -0.0011612342281992483,
+      "correction": 0.0034523746337500327,
+      "total": 0.002291140405603187
+    }
+  },
+  {
+    "solvent": "propanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -65.52,
+      "correction": -0.21,
+      "total": -65.73
+    },
+    "cpp": {
+      "electrostatic": -65.5190058531671,
+      "correction": -0.210928926403102,
+      "total": -65.7299347795702
+    },
+    "errors": {
+      "electrostatic": 0.0009941468328946712,
+      "correction": -0.0009289264031020206,
+      "total": 6.522042980350307e-05
+    }
+  },
+  {
+    "solvent": "pyridine",
+    "class": "C",
+    "reference": {
+      "electrostatic": -63.57,
+      "correction": 11.71,
+      "total": -51.86
+    },
+    "cpp": {
+      "electrostatic": -63.5676640634817,
+      "correction": 11.7118921097709,
+      "total": -51.8557719537108
+    },
+    "errors": {
+      "electrostatic": 0.002335936518299775,
+      "correction": 0.0018921097708997081,
+      "total": 0.004228046289199483
+    }
+  },
+  {
+    "solvent": "secbutanol",
+    "class": "B",
+    "reference": {
+      "electrostatic": -64.56,
+      "correction": -0.21,
+      "total": -64.77
+    },
+    "cpp": {
+      "electrostatic": -64.554968761997,
+      "correction": -0.210928926403102,
+      "total": -64.7658976884001
+    },
+    "errors": {
+      "electrostatic": 0.0050312380029993164,
+      "correction": -0.0009289264031020206,
+      "total": 0.0041023115998939375
+    }
+  },
+  {
+    "solvent": "secbutylbenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -32.56,
+      "correction": 1.16,
+      "total": -31.4
+    },
+    "cpp": {
+      "electrostatic": -32.5561268846065,
+      "correction": 1.15745445652109,
+      "total": -31.3986724280854
+    },
+    "errors": {
+      "electrostatic": 0.0038731153935032125,
+      "correction": -0.002545543478909895,
+      "total": 0.0013275719145973142
+    }
+  },
+  {
+    "solvent": "tbutylbenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -32.56,
+      "correction": 1.19,
+      "total": -31.37
+    },
+    "cpp": {
+      "electrostatic": -32.557403600932,
+      "correction": 1.19216859352914,
+      "total": -31.3652350074029
+    },
+    "errors": {
+      "electrostatic": 0.0025963990680040183,
+      "correction": 0.002168593529140006,
+      "total": 0.004764992597099393
+    }
+  },
+  {
+    "solvent": "tetrachloroethene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -31.55,
+      "correction": 0.89,
+      "total": -30.66
+    },
+    "cpp": {
+      "electrostatic": -31.5510632294718,
+      "correction": 0.891312739459398,
+      "total": -30.6597504900124
+    },
+    "errors": {
+      "electrostatic": -0.0010632294718000423,
+      "correction": 0.0013127394593980268,
+      "total": 0.00024950998760076004
+    }
+  },
+  {
+    "solvent": "tetrahydrofuran",
+    "class": "D",
+    "reference": {
+      "electrostatic": -55.84,
+      "correction": 1.53,
+      "total": -54.31
+    },
+    "cpp": {
+      "electrostatic": -55.8397733936517,
+      "correction": 1.52773858460693,
+      "total": -54.3120348090448
+    },
+    "errors": {
+      "electrostatic": 0.00022660634830629078,
+      "correction": -0.00226141539307001,
+      "total": -0.0020348090448010225
+    }
+  },
+  {
+    "solvent": "tetrahydrothiophenedioxide",
+    "class": "C",
+    "reference": {
+      "electrostatic": -67.31,
+      "correction": 12.53,
+      "total": -54.78
+    },
+    "cpp": {
+      "electrostatic": -67.3081921786802,
+      "correction": 12.5334600189614,
+      "total": -54.7747321597188
+    },
+    "errors": {
+      "electrostatic": 0.0018078213198009507,
+      "correction": 0.0034600189614000243,
+      "total": 0.005267840281199199
+    }
+  },
+  {
+    "solvent": "tetralin",
+    "class": "D",
+    "reference": {
+      "electrostatic": -37.29,
+      "correction": 1.83,
+      "total": -35.46
+    },
+    "cpp": {
+      "electrostatic": -37.2905551044993,
+      "correction": 1.82859443867667,
+      "total": -35.4619606658226
+    },
+    "errors": {
+      "electrostatic": -0.0005551044992984089,
+      "correction": -0.00140556132333014,
+      "total": -0.0019606658226010154
+    }
+  },
+  {
+    "solvent": "toluene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -32.93,
+      "correction": 0.81,
+      "total": -32.12
+    },
+    "cpp": {
+      "electrostatic": -32.9289055300077,
+      "correction": 0.810313086440622,
+      "total": -32.1185924435671
+    },
+    "errors": {
+      "electrostatic": 0.0010944699923030043,
+      "correction": 0.0003130864406220013,
+      "total": 0.0014075564328948076
+    }
+  },
+  {
+    "solvent": "tributylphosphate",
+    "class": "D",
+    "reference": {
+      "electrostatic": -56.97,
+      "correction": 0.84,
+      "total": -56.13
+    },
+    "cpp": {
+      "electrostatic": -56.9699299198567,
+      "correction": 0.845027223448668,
+      "total": -56.124902696408
+    },
+    "errors": {
+      "electrostatic": 7.008014329557e-05,
+      "correction": 0.005027223448668017,
+      "total": 0.0050973035920023335
+    }
+  },
+  {
+    "solvent": "triethylamine",
+    "class": "D",
+    "reference": {
+      "electrostatic": -33.04,
+      "correction": 1.04,
+      "total": -32.0
+    },
+    "cpp": {
+      "electrostatic": -33.0423587531901,
+      "correction": 1.04174066649427,
+      "total": -32.0006180866959
+    },
+    "errors": {
+      "electrostatic": -0.0023587531901014813,
+      "correction": 0.0017406664942700711,
+      "total": -0.0006180866959013542
+    }
+  },
+  {
+    "solvent": "trimethylbenzene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -32.82,
+      "correction": 1.06,
+      "total": -31.76
+    },
+    "cpp": {
+      "electrostatic": -32.8185071277884,
+      "correction": 1.06488342449963,
+      "total": -31.7536237032887
+    },
+    "errors": {
+      "electrostatic": 0.0014928722115996607,
+      "correction": 0.004883424499629863,
+      "total": 0.006376296711302132
+    }
+  },
+  {
+    "solvent": "undecane",
+    "class": "D",
+    "reference": {
+      "electrostatic": -27.4,
+      "correction": 1.11,
+      "total": -26.29
+    },
+    "cpp": {
+      "electrostatic": -27.4006432405889,
+      "correction": 1.11116894051036,
+      "total": -26.2894743000786
+    },
+    "errors": {
+      "electrostatic": -0.0006432405889000847,
+      "correction": 0.0011689405103598727,
+      "total": 0.000525699921400502
+    }
+  },
+  {
+    "solvent": "water",
+    "class": "A",
+    "reference": {
+      "electrostatic": -68.0,
+      "correction": -0.6,
+      "total": -68.6
+    },
+    "cpp": {
+      "electrostatic": -67.9959216779508,
+      "correction": -0.602984936708571,
+      "total": -68.5989066146594
+    },
+    "errors": {
+      "electrostatic": 0.004078322049196004,
+      "correction": -0.0029849367085710288,
+      "total": 0.001093385340595887
+    }
+  },
+  {
+    "solvent": "xylene",
+    "class": "D",
+    "reference": {
+      "electrostatic": -33.1,
+      "correction": 0.92,
+      "total": -32.18
+    },
+    "cpp": {
+      "electrostatic": -33.1006754649845,
+      "correction": 0.926026876467446,
+      "total": -32.1746485885171
+    },
+    "errors": {
+      "electrostatic": -0.0006754649844964433,
+      "correction": 0.00602687646744593,
+      "total": 0.005351411482898527
+    }
+  }
+]

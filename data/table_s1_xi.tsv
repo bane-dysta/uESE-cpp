@@ -1,0 +1,78 @@
+si_name	class	xi_kcal_mol_A2	cpp_name
+bromoethane	C	-0.0077	bromoethane
+o-nitrotoluene	C	0.0016	onitrotoluene
+2-methylpyridine	C	-0.0044	2-methylpyridine
+nitroethane	C	-0.0009	nitroethane
+o-dichlorobenzene	C	-0.0011	odichlorobenzene
+nitrobenzene	C	0.0012	nitrobenzene
+dichloroethane	C	-0.0025	dichloroethane
+acetonitrile	C	0.0021	acetonitrile
+4-methyl-2-pentanone	C	-0.0057	4-methyl-2-pentanone
+nitromethane	C	0.0026	nitromethane
+pyridine	C	-0.0038	pyridine
+dimethyl formamide	C	-0.0011	dimethylformamide
+cyclohexanone	C	-0.0061	cyclohexanone
+dimethyl acetamide	C	-0.0010	dimethylacetamide
+acetophenone	C	-0.0028	acetophenone
+sulfolane	C	0.0033	tetrahydrothiophenedioxide
+butanone	C	-0.0041	butanone
+dimethyl sulfoxide	C	0.0003	dimethylsulfoxide
+benzonitrile	C	-0.0032	benzonitrile
+methyl formamide	C	0.0005	methylformamide
+pentane	D	-0.0020	pentane
+tetralin	D	0.0042	tetralin
+hexane	D	-0.0016	hexane
+dibutyl ether	D	-0.0005	dibutylether
+heptane	D	-0.0019	heptane
+diisopropyl ether	D	-0.0037	diisopropylether
+isooctane	D	-0.0018	isooctane
+hexadecyl iodide	D	0.0022	hexadecyliodide
+octane	D	-0.0005	octane
+diphenyl ether	D	0.0026	phenylether
+nonane	D	-0.0009	nonane
+fluoroctane	D	0.0044	fluoroctane
+decane	D	-0.0004	decane
+ethoxybenzene	D	0.0019	ethoxybenzene
+undecane	D	-0.0020	undecane
+anisole	D	0.0010	anisole
+dodecane	D	-0.0004	dodecane
+diethyl ether	D	-0.0019	diethylether
+cyclohexane	D	-0.0008	cyclohexane
+bromoform	D	0.0009	bromoform
+perfluorobenzene	D	-0.0063	perfluorobenzene
+iodobenzene	D	0.0042	iodobenzene
+pentadecane	D	0.0000	pentadecane
+chloroform	D	-0.0014	chloroform
+hexadecane	D	0.0002	hexadecane
+dibromoethane	D	0.0029	dibromoethane
+decalin	D	0.0012	decalin
+butyl acetate	D	-0.0020	butylacetate
+carbontet	D	-0.0037	carbontet
+bromooctane	D	0.0073	bromooctane
+isopropyltoluene	D	-0.0026	isopropyltoluene
+bromobenzene	D	0.0044	bromobenzene
+mesitylene	D	-0.0038	mesitylene
+fluorobenzene	D	0.0013	fluorobenzene
+tetrachloroethene	D	-0.0039	tetrachloroethene
+chlorobenzene	D	0.0041	chlorobenzene
+benzene	D	-0.0049	benzene
+chlorohexane	D	0.0064	chlorohexane
+sec-butylbenzene	D	-0.0016	secbutylbenzene
+ethyl acetate	D	-0.0037	ethylacetate
+tert-butylbenzene	D	-0.0013	tbutylbenzene
+acetic acid	D	0.0031	aceticacid
+butylbenzene	D	-0.0019	butylbenzene
+aniline	D	0.0029	aniline
+trimethylbenzene	D	-0.0024	trimethylbenzene
+dimethylpyridine	D	0.0032	dimethylpyridine
+isopropylbenzene	D	-0.0021	isopropylbenzene
+tetrahydrofuran	D	0.0016	tetrahydrofuran
+toluene	D	-0.0046	toluene
+decanol	D	-0.0003	decanol
+triethylamine	D	-0.0026	triethylamine
+tributyl phosphate	D	-0.0043	tributylphosphate
+xylene	D	-0.0036	xylene
+nonanol	D	0.0013	nonanol
+ethylbenzene	D	-0.0030	ethylbenzene
+dichloromethane	D	0.0029	methylenechloride
+carbon disulfide	D	-0.0006	carbondisulfide

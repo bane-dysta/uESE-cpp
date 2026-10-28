@@ -1,0 +1,25 @@
+{
+  "implementation": "uese-cpp 1.0",
+  "model": "uESE-2021",
+  "doi": "10.1002/jcc.26531",
+  "title": " QDAT for System :  0216amm",
+  "units": {"length":"angstrom","area":"angstrom^2","volume":"angstrom^3","charge":"e","energy":"kcal/mol"},
+  "solvent": {"name":"acetonitrile","class":"C","epsilon":35.6881,"xi":0.0021,"xi_source":"2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"},
+  "settings": {"ndiv":3,"centered":false,"radius_overrides":{ }},
+  "n_atoms":4,
+  "n_surface_points":151,
+  "solute_charge":0.0001000000000001,
+  "surface_charge":-7.64882635333001e-05,
+  "surface_area":41.3826619543351,
+  "cavity_volume":22.8076189585653,
+  "dielectric_factor":0.971979455336653,
+  "energy":{"electrostatic":-4.35097668396009,"atomic_area":7.44710137031253,"solvent_shift":0.0869035901041037,"linear_charge":-1.36241766007781,"nonlinear_charge":2.57445424148211,"volume":-5.3825980742214,"short_range":0,"correction":3.36344346759953,"total":-0.987533216360557},
+  "numerics":{"relative_residual":1.35159687834887e-16,"positive_definite":true,"conductor_energy":-4.47640807639611,"sigma_min":-0.00684410132575956,"sigma_max":0.0139096470011667,"coulomb_kcal_angstrom":332.063713299},
+  "atoms":[
+    {"index":1,"element":"N","xyz":[-0,0,-0.1115],"input_charge":-0.8249,"radius":1.55,"surface_area":13.6172660819084,"surface_charge":0.189411364320306,"sigma":0.0139096470011667},
+    {"index":2,"element":"H","xyz":[0.4749,-0.8123,0.2602],"input_charge":0.275,"radius":1.2,"surface_area":9.27398151339707,"surface_charge":-0.0634720691709106,"sigma":-0.00684410132575956},
+    {"index":3,"element":"H","xyz":[0.466,0.8174,0.2602],"input_charge":0.275,"radius":1.2,"surface_area":9.27398151339707,"surface_charge":-0.0634286863116142,"sigma":-0.00683942341485002},
+    {"index":4,"element":"H","xyz":[-0.9409,-0.0051,0.2602],"input_charge":0.275,"radius":1.2,"surface_area":9.21743284563246,"surface_charge":-0.0625870971013149,"sigma":-0.00679007898939788}
+  ],
+  "warnings":[]
+}

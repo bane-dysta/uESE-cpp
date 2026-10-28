@@ -1,0 +1,260 @@
+[
+  {
+    "solvent": "water",
+    "class": "A",
+    "checks": [
+      {
+        "parameter": "kappaH",
+        "paper": 0.024,
+        "runtime_raw": "0.024",
+        "matches": true
+      },
+      {
+        "parameter": "kappaC",
+        "paper": -0.003,
+        "runtime_raw": "-0.0030000000000000001",
+        "matches": true
+      },
+      {
+        "parameter": "kappaN",
+        "paper": 0.0,
+        "runtime_raw": "0",
+        "matches": true
+      },
+      {
+        "parameter": "kappaO",
+        "paper": 0.012,
+        "runtime_raw": "0.012",
+        "matches": true
+      },
+      {
+        "parameter": "pH",
+        "paper": -16.5,
+        "runtime_raw": "-16.5",
+        "matches": true
+      },
+      {
+        "parameter": "pC",
+        "paper": 35.4,
+        "runtime_raw": "35.399999999999999",
+        "matches": true
+      },
+      {
+        "parameter": "pN",
+        "paper": 65.8,
+        "runtime_raw": "65.799999999999997",
+        "matches": true
+      },
+      {
+        "parameter": "pO",
+        "paper": 14.2,
+        "runtime_raw": "14.199999999999999",
+        "matches": true
+      },
+      {
+        "parameter": "zeta",
+        "paper": 0.0,
+        "runtime_raw": "0",
+        "matches": true
+      }
+    ]
+  },
+  {
+    "solvent": "methanol",
+    "class": "B",
+    "checks": [
+      {
+        "parameter": "kappaH",
+        "paper": 0.045,
+        "runtime_raw": "0.044999999999999998",
+        "matches": true
+      },
+      {
+        "parameter": "kappaC",
+        "paper": 0.03,
+        "runtime_raw": "0.029999999999999999",
+        "matches": true
+      },
+      {
+        "parameter": "kappaN",
+        "paper": 0,
+        "runtime_raw": "0",
+        "matches": true
+      },
+      {
+        "parameter": "kappaO",
+        "paper": 0.072,
+        "runtime_raw": "0.071999999999999995",
+        "matches": true
+      },
+      {
+        "parameter": "pH",
+        "paper": -14.6,
+        "runtime_raw": "-14.6",
+        "matches": true
+      },
+      {
+        "parameter": "pC",
+        "paper": 5.5,
+        "runtime_raw": "5.5",
+        "matches": true
+      },
+      {
+        "parameter": "pN",
+        "paper": 73,
+        "runtime_raw": "73",
+        "matches": true
+      },
+      {
+        "parameter": "pO",
+        "paper": 17.4,
+        "runtime_raw": "17.399999999999999",
+        "matches": true
+      },
+      {
+        "parameter": "zeta",
+        "paper": -0.07,
+        "runtime_raw": "-0.070000000000000007",
+        "matches": true
+      }
+    ]
+  },
+  {
+    "solvent": "acetonitrile",
+    "class": "C",
+    "checks": [
+      {
+        "parameter": "kappaH",
+        "paper": 0.151,
+        "runtime_raw": "0.151",
+        "matches": true
+      },
+      {
+        "parameter": "kappaC",
+        "paper": 0.17,
+        "runtime_raw": "0.17000000000000001",
+        "matches": true
+      },
+      {
+        "parameter": "kappaN",
+        "paper": 0.239,
+        "runtime_raw": "0.23899999999999999",
+        "matches": true
+      },
+      {
+        "parameter": "kappaO",
+        "paper": 0.052,
+        "runtime_raw": "0.051999999999999998",
+        "matches": true
+      },
+      {
+        "parameter": "pH",
+        "paper": -17.21,
+        "runtime_raw": "-17.210000000000001",
+        "matches": true
+      },
+      {
+        "parameter": "pC",
+        "paper": 12.89,
+        "runtime_raw": "12.890000000000001",
+        "matches": true
+      },
+      {
+        "parameter": "pN",
+        "paper": 77.5,
+        "runtime_raw": "77.5",
+        "matches": true
+      },
+      {
+        "parameter": "pO",
+        "paper": 14.56,
+        "runtime_raw": "14.56",
+        "matches": true
+      },
+      {
+        "parameter": "gH",
+        "paper": 7.19,
+        "runtime_raw": "7.1900000000000004",
+        "matches": true
+      },
+      {
+        "parameter": "gC",
+        "paper": 9.27,
+        "runtime_raw": "9.2699999999999996",
+        "matches": true
+      },
+      {
+        "parameter": "gO",
+        "paper": 21.82,
+        "runtime_raw": "21.82",
+        "matches": true
+      },
+      {
+        "parameter": "zeta",
+        "paper": -0.236,
+        "runtime_raw": "-0.23599999999999999",
+        "matches": true
+      }
+    ]
+  },
+  {
+    "solvent": "benzene",
+    "class": "D",
+    "checks": [
+      {
+        "parameter": "kappaH",
+        "paper": 0.106,
+        "runtime_raw": "0.106",
+        "matches": true
+      },
+      {
+        "parameter": "kappaC",
+        "paper": 0.115,
+        "runtime_raw": "0.115",
+        "matches": true
+      },
+      {
+        "parameter": "kappaN",
+        "paper": -0.092,
+        "runtime_raw": "-0.091999999999999998",
+        "matches": true
+      },
+      {
+        "parameter": "kappaO",
+        "paper": 0.056,
+        "runtime_raw": "0.056000000000000001",
+        "matches": true
+      },
+      {
+        "parameter": "pH",
+        "paper": -6.15,
+        "runtime_raw": "-6.1500000000000004",
+        "matches": true
+      },
+      {
+        "parameter": "pC",
+        "paper": 1.54,
+        "runtime_raw": "1.54",
+        "matches": true
+      },
+      {
+        "parameter": "pN",
+        "paper": 23.1,
+        "runtime_raw": "23.100000000000001",
+        "matches": true
+      },
+      {
+        "parameter": "pO",
+        "paper": 9.52,
+        "runtime_raw": "9.5199999999999996",
+        "matches": true
+      },
+      {
+        "parameter": "zeta",
+        "paper": -0.166,
+        "runtime_raw": "-0.16600000000000001",
+        "matches": true
+      }
+    ]
+  }
+]

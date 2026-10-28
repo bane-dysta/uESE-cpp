@@ -1,0 +1,93 @@
+name	aliases	class	epsilon	electrostatic	correction	total	returncode
+2-methylpyridine		C	9.9533	-61.96	11.64	-50.32	0
+4-methyl-2-pentanone	4methyl2pentanone,methylisobutylketone,MIBK	C	12.8871	-63.53	11.49	-52.04	0
+aceticacid	acetic_acid,acetic-acid,AcOH	D	6.2528	-53.58	1.70	-51.88	0
+acetonitrile	MeCN	C	35.6881	-66.95	12.39	-54.55	0
+acetophenone		C	17.4400	-64.93	11.83	-53.10	0
+aniline		D	6.8882	-54.89	1.68	-53.22	0
+anisole		D	4.2247	-47.01	1.46	-45.55	0
+benzene		D	2.2706	-31.59	0.77	-30.81	0
+benzonitrile		C	25.5920	-66.18	11.78	-54.41	0
+benzylalcohol	benzyl_alcohol,benzyl-alcohol	B	12.4569	-63.35	-0.21	-63.56	0
+bromobenzene		D	5.3954	-51.35	1.85	-49.50	0
+bromoethane		C	9.0100	-61.23	11.26	-49.97	0
+bromoform	tribromomethane	D	4.2488	-47.12	1.45	-45.68	0
+bromooctane		D	5.0244	-50.17	2.19	-47.99	0
+butanol		B	17.3323	-64.90	-0.21	-65.11	0
+butanone		C	18.2457	-65.10	11.68	-53.43	0
+butylacetate	butyl_acetate,butyl-acetate	D	4.9941	-50.07	1.11	-48.96	0
+butylbenzene		D	2.3600	-32.75	1.12	-31.63	0
+carbondisulfide	carbon_disulfide,carbon-disulfide	D	2.6105	-35.66	1.27	-34.39	0
+carbontet	carbon_tetrachloride,carbon-tetrachloride,CCl4	D	2.2280	-31.00	0.91	-30.09	0
+chlorobenzene		D	5.6968	-52.20	1.82	-50.39	0
+chloroform	trichloromethane	D	4.7113	-49.05	1.18	-47.87	0
+chlorohexane		D	5.9491	-52.86	2.08	-50.77	0
+cyclohexane		D	2.0165	-27.82	1.25	-26.57	0
+cyclohexanone		C	15.6186	-64.47	11.44	-53.02	0
+decalin		D	2.1960	-30.55	1.48	-29.07	0
+decane		D	1.9846	-27.29	1.29	-26.00	0
+decanol		D	7.5305	-56.01	1.31	-54.70	0
+dibromoethane		D	4.9313	-49.85	1.68	-48.18	0
+dibutylether	dibutyl_ether,dibutyl-ether	D	3.0473	-39.75	1.28	-38.47	0
+dichloroethane		C	10.1250	-62.07	11.86	-50.21	0
+diethylether	diethyl_ether,diethyl-ether	D	4.2400	-47.08	1.12	-45.96	0
+diisopropylether	diisopropyl_ether,diisopropyl-ether	D	3.3800	-42.25	0.91	-41.34	0
+dimethylacetamide	dimethyl_acetamide,dimethyl-acetamide,DMA	C	37.7807	-67.05	12.03	-55.02	0
+dimethylformamide	dimethyl_formamide,dimethyl-formamide,DMF	C	37.2190	-67.03	12.02	-55.00	0
+dimethylpyridine		D	7.1735	-55.41	1.71	-53.70	0
+dimethylsulfoxide	dimethyl_sulfoxide,dimethyl-sulfoxide,DMSO	C	46.8260	-67.41	12.18	-55.22	0
+dodecane		D	2.0060	-27.65	1.29	-26.35	0
+ethanol		B	24.8520	-66.10	-0.21	-66.32	0
+ethoxybenzene		D	4.1797	-46.80	1.56	-45.24	0
+ethylacetate	ethyl_acetate,ethyl-acetate	D	5.9867	-52.95	0.91	-52.04	0
+ethylbenzene		D	2.4339	-33.66	0.99	-32.67	0
+fluorobenzene		D	5.4200	-51.42	1.49	-49.93	0
+fluoroctane		D	3.8900	-45.34	1.85	-43.49	0
+heptane		D	1.9113	-26.03	1.12	-24.91	0
+heptanol		B	11.3210	-62.79	-0.21	-63.00	0
+hexadecane		D	2.0402	-28.20	1.36	-26.84	0
+hexadecyliodide	hexadecyl_iodide,hexadecyl-iodide	D	3.5338	-43.26	1.60	-41.67	0
+hexane		D	1.8819	-25.50	1.16	-24.35	0
+hexanol		B	12.5102	-63.37	-0.21	-63.58	0
+iodobenzene		D	4.5470	-48.41	1.83	-46.58	0
+isobutanol		B	16.7766	-64.77	-0.21	-64.98	0
+isooctane		D	1.9358	-26.46	1.13	-25.33	0
+isopropanol		B	19.2645	-65.30	-0.21	-65.51	0
+isopropylbenzene		D	2.3712	-32.89	1.10	-31.80	0
+isopropyltoluene		D	2.2322	-31.06	1.04	-30.02	0
+mcresol	m-cresol,m_cresol	B	12.4400	-63.34	-0.21	-63.55	0
+mesitylene		D	2.2650	-31.51	0.90	-30.61	0
+methanol		B	32.6130	-66.76	-0.21	-66.98	0
+methoxyethanol		B	17.2000	-64.87	-0.21	-65.08	0
+methylenechloride	methylene_chloride,methylene-chloride,dichloromethane	D	8.9300	-57.92	1.68	-56.24	0
+methylformamide	methyl_formamide,methyl-formamide,NMF	C	181.5619	-68.50	12.21	-56.29	0
+nitrobenzene		C	34.8091	-66.90	12.29	-54.61	0
+nitroethane		C	28.2896	-66.44	12.05	-54.40	0
+nitromethane		C	36.5623	-66.99	12.45	-54.54	0
+nonane		D	1.9605	-26.89	1.24	-25.65	0
+nonanol		D	8.5991	-57.52	1.49	-56.03	0
+octane		D	1.9406	-26.54	1.28	-25.26	0
+octanol		B	9.8629	-61.89	-0.21	-62.10	0
+odichlorobenzene	o-dichlorobenzene,o_dichlorobenzene	C	9.9949	-61.99	12.02	-49.96	0
+onitrotoluene	o-nitrotoluene,o_nitrotoluene	C	25.6692	-66.19	12.33	-53.86	0
+pentadecane		D	2.0333	-28.09	1.34	-26.75	0
+pentane		D	1.8371	-24.67	1.11	-23.56	0
+pentanol		B	15.1300	-64.32	-0.21	-64.54	0
+perfluorobenzene		D	2.0290	-28.02	0.61	-27.41	0
+phenylether		D	3.7300	-44.45	1.64	-42.81	0
+propanol		B	20.5237	-65.52	-0.21	-65.73	0
+pyridine		C	12.9776	-63.57	11.71	-51.86	0
+secbutanol	sec-butanol,sec_butanol	B	15.9436	-64.56	-0.21	-64.77	0
+secbutylbenzene	sec-butylbenzene,sec_butylbenzene	D	2.3446	-32.56	1.16	-31.40	0
+tbutylbenzene	t-butylbenzene,t_butylbenzene	D	2.3447	-32.56	1.19	-31.37	0
+tetrachloroethene		D	2.2680	-31.55	0.89	-30.66	0
+tetrahydrofuran	THF	D	7.4257	-55.84	1.53	-54.31	0
+tetrahydrothiophenedioxide	tetrahydrothiophene_dioxide,tetrahydrothiophene-dioxide,sulfolane	C	43.9622	-67.31	12.53	-54.78	0
+tetralin		D	2.7710	-37.29	1.83	-35.46	0
+toluene		D	2.3741	-32.93	0.81	-32.12	0
+tributylphosphate	tributyl_phosphate,tributyl-phosphate,TBP	D	8.1781	-56.97	0.84	-56.13	0
+triethylamine		D	2.3832	-33.04	1.04	-32.00	0
+trimethylbenzene		D	2.3653	-32.82	1.06	-31.76	0
+undecane		D	1.9910	-27.40	1.11	-26.29	0
+water	H2O	A	78.3600	-68.00	-0.60	-68.60	0
+xylene		D	2.3879	-33.10	0.92	-32.18	0

@@ -1,0 +1,24 @@
+uese-cpp is an independent implementation of a published scientific model.
+
+Scientific model:
+S. F. Vyboishchikov and A. A. Voityuk, Fast non-iterative calculation of
+solvation energies for water and non-aqueous solvents, J. Comput. Chem.
+42 (2021), 1184-1194. DOI: 10.1002/jcc.26531.
+
+Surface algorithm reference:
+J. L. Pascual-Ahuir, E. Silla, I. Tunon, J. Comput. Chem.
+15 (1994), 1127-1138. DOI: 10.1002/jcc.540151009.
+
+Earlier ESE/xESE methods cited by the author:
+DOI: 10.1039/c9cp03010g and DOI: 10.1039/d0cp02667k.
+
+The new C++ and test source is provided under the included MIT License.
+Scientific parameter values are documented as factual data from the model
+paper and the author's public uESE v1.2 executable. They are not represented
+as newly fitted parameters. Supporting Information Table S1 was not obtained;
+the corresponding solvent shifts were read from named runtime parameters in
+the author executable. The extraction provenance is included in data/.
+
+No original uESE/xESE executable, GEPOL Fortran source, or full journal article
+is distributed in this package. Citation of the scientific authors remains
+appropriate when using results from their model.

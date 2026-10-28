@@ -1,0 +1,50 @@
+{
+  "binary_url": "https://github.com/vyboishchikov/ESE/raw/refs/heads/main/uESE.x",
+  "binary_version": "1.2, July 2025",
+  "binary_sha256": "3017c93591f219a3db797be78347e3209c7ec24f8f4523fee09a4799083f0b08",
+  "method": "GNU GDB; stop at named correction_term_ entry; read named __parametry_MOD_xi_solv/eps/solvclass and named unit conversion variables plus Table1 parameter crosschecks; no instruction disassembly or parameter fitting",
+  "gdb_script": "tools/read_author_solvent_parameters.gdb",
+  "numeric_format": "%.17g, IEEE 754 double; original runtime values preserved as decimal strings",
+  "validation": "Each class and epsilon was checked against independent normal CLI output stored in solvent_catalog_v1_2.tsv",
+  "warning": "All 77 class C/D xi values have now been checked against the original 2021 Supporting Information Table S1, page 2, with zero discrepancies. Dielectric constants epsilon are only traced to the author uESE v1.2 named runtime parameters, because SI Table S1 does not list epsilon.",
+  "solvent_count": 92,
+  "xi_unit": "kcal mol^-1 Angstrom^-2",
+  "unit_evidence": "Original 2021 paper Eq.11 and Eq.12 add xi_solv directly to kappa_A. Runtime H/C/N/O kappa and p, plus zeta, agree with printed Table 1 in all four classes (table1_unit_crosscheck.json: 39 checked values). Raw xi must not be multiplied by unitenergy.",
+  "output_file": "data/author_runtime_solvents.csv",
+  "symbols": {
+    "xi_solv": {
+      "name": "__parametry_MOD_xi_solv",
+      "address": "0x5520f0",
+      "bytes": 8
+    },
+    "eps": {
+      "name": "__parametry_MOD_eps",
+      "address": "0x550170",
+      "bytes": 8
+    },
+    "class": {
+      "name": "__parametry_MOD_solvclass",
+      "address": "0x5520f8",
+      "bytes": 1
+    }
+  },
+  "breakpoint": {
+    "name": "correction_term_",
+    "address": "0x402eff"
+  },
+  "gdb_version": "GNU gdb (Ubuntu 15.0.50.20240403-0ubuntu1) 15.0.50.20240403-git",
+  "scope": "Only freshly started author uESE child processes with user-provided PhO input. No unrelated process inspection. No executable file modification. No instruction disassembly. No output-based parameter fitting.",
+  "xi_source": "Vyboishchikov and Voityuk, J. Comput. Chem. 42 (2021), Supporting Information, Table S1, page 2, DOI:10.1002/jcc.26531",
+  "xi_crosscheck": {
+    "date": "2026-10-28",
+    "solvent_counts": {
+      "C": 20,
+      "D": 57
+    },
+    "matched": 77,
+    "mismatches": 0,
+    "fixture": "data/table_s1_xi.tsv",
+    "method": "Parsed each printed Table S1 name/class/xi pair from user-supplied PDF page 2 and compared to author v1.2 runtime-derived values. Verified page rendering for sign/columns. Canonical name mapping is in fixture."
+  },
+  "epsilon_source": "Author public executable uESE v1.2, July 2025, named runtime variables; 2021 SI Table S1 includes xi but not epsilon."
+}

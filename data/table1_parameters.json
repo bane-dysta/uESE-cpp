@@ -1,0 +1,165 @@
+{
+  "source": {
+    "doi": "10.1002/jcc.26531",
+    "table": "Table 1 (printed p.1187)",
+    "archive": "https://web.archive.org/web/20220816171521id_/http://iqc.udg.es/~vybo/jcc.26531.pdf",
+    "note": "Checked against the complete publisher PDF uploaded 2026-10-28, printed page 1187 (PDF page 4), Table 1. All printed parameters and blank entries match the C++ implementation.",
+    "verified_file": "Vyboishchikov & Voityuk, J Comput Chem 2021 42 1184-1194 (user-supplied publisher PDF)"
+  },
+  "element_order": [
+    "H",
+    "C",
+    "N",
+    "O",
+    "F",
+    "P",
+    "S",
+    "Cl",
+    "Br",
+    "I"
+  ],
+  "A": {
+    "kappa": [
+      0.024,
+      -0.003,
+      0.0,
+      0.012,
+      0.054,
+      0.03,
+      -0.022,
+      -0.006,
+      -0.016,
+      -0.025
+    ],
+    "p": [
+      -16.5,
+      35.4,
+      65.8,
+      14.2,
+      14.5,
+      0,
+      29.2,
+      28.3,
+      29.8,
+      23.0
+    ],
+    "src_A": 68500,
+    "src_B": 87700,
+    "src_C": -8.87,
+    "zeta": 0.0
+  },
+  "B": {
+    "kappa": [
+      0.045,
+      0.03,
+      0,
+      0.072,
+      0.077,
+      0.11,
+      0,
+      0.019,
+      0,
+      -0.008
+    ],
+    "p": [
+      -14.6,
+      5.5,
+      73,
+      17.4,
+      3,
+      10,
+      24,
+      24,
+      25.6,
+      26.0
+    ],
+    "src_A": 186000,
+    "src_B": 78500,
+    "src_C": -2.36,
+    "zeta": -0.07
+  },
+  "C": {
+    "kappa": [
+      0.151,
+      0.17,
+      0.239,
+      0.052,
+      0.2,
+      null,
+      0.122,
+      0.086,
+      0.083,
+      null
+    ],
+    "p": [
+      -17.21,
+      12.89,
+      77.5,
+      14.56,
+      0,
+      null,
+      7.6,
+      0,
+      0,
+      null
+    ],
+    "g": [
+      7.19,
+      9.27,
+      0,
+      21.82,
+      12,
+      null,
+      21.35,
+      32.1,
+      32.7,
+      null
+    ],
+    "zeta": -0.236
+  },
+  "D": {
+    "kappa": [
+      0.106,
+      0.115,
+      -0.092,
+      0.056,
+      0.1,
+      0.6,
+      0.05,
+      0.087,
+      0.072,
+      0.077
+    ],
+    "p": [
+      -6.15,
+      1.54,
+      23.1,
+      9.52,
+      6.17,
+      -70,
+      12.5,
+      1.94,
+      4.95,
+      -4.33
+    ],
+    "zeta": -0.166
+  },
+  "units": {
+    "kappa": "kcal mol^-1 Angstrom^-2",
+    "p": "kcal mol^-1 (charges in electron units)",
+    "g": "kcal mol^-1 (charges in electron units)",
+    "zeta": "kcal mol^-1 Angstrom^-3",
+    "src_C": "kcal mol^-1",
+    "src_A_B_note": "Original printed Table 1 labels A and B Angstrom^-6. Implement stated numerical values with sigma=qA/SA, SA in Angstrom^2. Dimensional reciprocal power appears inconsistent in printed table; do not change numerical values."
+  },
+  "missing": {
+    "C": [
+      "P",
+      "I"
+    ],
+    "all": [
+      "B and all elements not in element_order"
+    ],
+    "solvents": "All 77 values for class C/D verified against 2021 Supporting Information Table S1 page 2; epsilon from author v1.2 executable (see solvent_provenance.json)."
+  }
+}

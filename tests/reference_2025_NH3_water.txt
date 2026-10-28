@@ -1,0 +1,40 @@
+          Program uESE. (c) Sergei F. Vyboishchikov, Universitat de Girona
+          March, 2021
+          Version 1.2, July 2025
+
+
+ Job started  28.10.2026 at 06:10
+ Solvent: WATER.   Solvent class: A - water.   Epsilon = 78.3600
+
+ Solute file "Input_example_NH3.CM5-charges"
+ CM5 atomic charges used
+ Number of atoms in the solute    4
+ Number of atomic charges    4
+ Total charge     0.000
+
+
+         Atomic coordinates, charges, and vdW radii:
+               X           Y           Z         Q       R
+   1 N      -0.0000      0.0000     -0.1115   -0.8249   1.55
+   2 H       0.4749     -0.8123      0.2602    0.2750   1.20
+   3 H       0.4660      0.8174      0.2602    0.2750   1.20
+   4 H      -0.9409     -0.0051      0.2602    0.2750   1.20
+
+ CM5 parameters used
+
+ The van der Waals surface is calculated using the GEPOL93 v.8 program
+     J.L. Pascual-Ahuir et al. J. Comput. Chem. 1994, 15, 1127.
+ Number of induced surface charges =    151
+
+
+ COSMO electrostatic energy =        -4.42 kcal/mol
+ Correction term =         0.30 kcal/mol
+ Total solvation free energy =        -4.12 kcal/mol
+
+
+ The program is based on the following publications:
+ Vyboishchikov S.F., Voityuk A.A., JCC, 2021, 42, 1184-1194. DOI: 10.1002/jcc.26531
+ Voityuk A.A., Vyboishchikov S.F., PCCP, 2020, 22, 14591-14598, DOI: 10.1039/d0cp02667k
+ Voityuk A.A., Vyboishchikov S.F., PCCP, 2019, 21, 18706-18713, DOI: 10.1039/c9cp03010g
+
+ CPU time =  0.001 seconds.

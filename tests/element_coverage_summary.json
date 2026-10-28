@@ -1,0 +1,29 @@
+{
+  "purpose": "Synthetic formula/parameter/radius coverage, not accuracy of chemical solvation predictions",
+  "geometry": "Four identical-element atoms at (a,a,a),(-a,-a,a),(-a,a,-a),(a,-a,-a), a=1.5R/(2sqrt(2)); all pair distances 1.5R. Each atom has either +0.37e or -0.37e. Coordinates rounded to 8 decimal angstroms; same input supplied to both implementations.",
+  "fallback_reason": "Author executable crashes in GEPOL for tested isolated atom, separated two-atom, and separated four-atom inputs; overlapping tetrahedral atomic spheres run successfully. This is a numerical fixture choice and not a chemical-accuracy assertion.",
+  "case_count": 76,
+  "expected_case_count": 76,
+  "element_counts_by_class": {
+    "A": 10,
+    "B": 10,
+    "C": 8,
+    "D": 10
+  },
+  "reference": "author uESE v1.2 July 2025, energy output rounded to 0.01 kcal/mol",
+  "energy_units": "kcal/mol",
+  "difference_convention": "C++ minus rounded author output",
+  "sha256": {
+    "author": "3017c93591f219a3db797be78347e3209c7ec24f8f4523fee09a4799083f0b08",
+    "cpp_during_initial_comparison": "be2bd49c2802bf1353a9f872e149ec345c48c63518b6303a37d43a212584774a"
+  },
+  "all_radii_match": true,
+  "all_surface_counts_match": true,
+  "max_abs_differences": {
+    "electrostatic": 0.008167271215995697,
+    "correction": 0.004663835586419918,
+    "total": 0.008194100738990073
+  },
+  "anomalies": [],
+  "release_note": "The final source additionally protects input paths from CSV overwrite; all 76 reference cases were replayed successfully by tests/run_tests.py in the final 994-assertion run."
+}

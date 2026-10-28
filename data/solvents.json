@@ -1,0 +1,835 @@
+[
+  {
+    "name": "2-methylpyridine",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 9.9533,
+    "xi": -0.0044,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "4-methyl-2-pentanone",
+    "aliases": [
+      "4methyl2pentanone",
+      "methylisobutylketone",
+      "MIBK"
+    ],
+    "class": "C",
+    "epsilon": 12.8871,
+    "xi": -0.0057,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "aceticacid",
+    "aliases": [
+      "acetic_acid",
+      "acetic-acid",
+      "AcOH"
+    ],
+    "class": "D",
+    "epsilon": 6.2528,
+    "xi": 0.0031,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "acetonitrile",
+    "aliases": [
+      "MeCN"
+    ],
+    "class": "C",
+    "epsilon": 35.6881,
+    "xi": 0.0021,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "acetophenone",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 17.44,
+    "xi": -0.0028,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "aniline",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 6.8882,
+    "xi": 0.0029,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "anisole",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 4.2247,
+    "xi": 0.001,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "benzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.2706,
+    "xi": -0.0049,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "benzonitrile",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 25.592,
+    "xi": -0.0032,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "benzylalcohol",
+    "aliases": [
+      "benzyl_alcohol",
+      "benzyl-alcohol"
+    ],
+    "class": "B",
+    "epsilon": 12.4569,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "bromobenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 5.3954,
+    "xi": 0.0044,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "bromoethane",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 9.01,
+    "xi": -0.0077,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "bromoform",
+    "aliases": [
+      "tribromomethane"
+    ],
+    "class": "D",
+    "epsilon": 4.2488,
+    "xi": 0.0009,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "bromooctane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 5.0244,
+    "xi": 0.0073,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "butanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 17.3323,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "butanone",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 18.2457,
+    "xi": -0.0041,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "butylacetate",
+    "aliases": [
+      "butyl_acetate",
+      "butyl-acetate"
+    ],
+    "class": "D",
+    "epsilon": 4.9941,
+    "xi": -0.002,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "butylbenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.36,
+    "xi": -0.0019,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "carbondisulfide",
+    "aliases": [
+      "carbon_disulfide",
+      "carbon-disulfide"
+    ],
+    "class": "D",
+    "epsilon": 2.6105,
+    "xi": -0.0006,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "carbontet",
+    "aliases": [
+      "carbon_tetrachloride",
+      "carbon-tetrachloride",
+      "CCl4"
+    ],
+    "class": "D",
+    "epsilon": 2.228,
+    "xi": -0.0037,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "chlorobenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 5.6968,
+    "xi": 0.0041,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "chloroform",
+    "aliases": [
+      "trichloromethane"
+    ],
+    "class": "D",
+    "epsilon": 4.7113,
+    "xi": -0.0014,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "chlorohexane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 5.9491,
+    "xi": 0.0064,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "cyclohexane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.0165,
+    "xi": -0.0008,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "cyclohexanone",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 15.6186,
+    "xi": -0.0061,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "decalin",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.196,
+    "xi": 0.0012,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "decane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.9846,
+    "xi": -0.0004,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "decanol",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 7.5305,
+    "xi": -0.0003,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dibromoethane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 4.9313,
+    "xi": 0.0029,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dibutylether",
+    "aliases": [
+      "dibutyl_ether",
+      "dibutyl-ether"
+    ],
+    "class": "D",
+    "epsilon": 3.0473,
+    "xi": -0.0005,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dichloroethane",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 10.125,
+    "xi": -0.0025,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "diethylether",
+    "aliases": [
+      "diethyl_ether",
+      "diethyl-ether"
+    ],
+    "class": "D",
+    "epsilon": 4.24,
+    "xi": -0.0019,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "diisopropylether",
+    "aliases": [
+      "diisopropyl_ether",
+      "diisopropyl-ether"
+    ],
+    "class": "D",
+    "epsilon": 3.38,
+    "xi": -0.0037,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dimethylacetamide",
+    "aliases": [
+      "dimethyl_acetamide",
+      "dimethyl-acetamide",
+      "DMA"
+    ],
+    "class": "C",
+    "epsilon": 37.7807,
+    "xi": -0.001,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dimethylformamide",
+    "aliases": [
+      "dimethyl_formamide",
+      "dimethyl-formamide",
+      "DMF"
+    ],
+    "class": "C",
+    "epsilon": 37.219,
+    "xi": -0.0011,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dimethylpyridine",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 7.1735,
+    "xi": 0.0032,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dimethylsulfoxide",
+    "aliases": [
+      "dimethyl_sulfoxide",
+      "dimethyl-sulfoxide",
+      "DMSO"
+    ],
+    "class": "C",
+    "epsilon": 46.826,
+    "xi": 0.0003,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "dodecane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.006,
+    "xi": -0.0004,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "ethanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 24.852,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "ethoxybenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 4.1797,
+    "xi": 0.0019,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "ethylacetate",
+    "aliases": [
+      "ethyl_acetate",
+      "ethyl-acetate"
+    ],
+    "class": "D",
+    "epsilon": 5.9867,
+    "xi": -0.0037,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "ethylbenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.4339,
+    "xi": -0.003,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "fluorobenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 5.42,
+    "xi": 0.0013,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "fluoroctane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 3.89,
+    "xi": 0.0044,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "heptane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.9113,
+    "xi": -0.0019,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "heptanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 11.321,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "hexadecane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.0402,
+    "xi": 0.0002,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "hexadecyliodide",
+    "aliases": [
+      "hexadecyl_iodide",
+      "hexadecyl-iodide"
+    ],
+    "class": "D",
+    "epsilon": 3.5338,
+    "xi": 0.0022,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "hexane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.8819,
+    "xi": -0.0016,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "hexanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 12.5102,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "iodobenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 4.547,
+    "xi": 0.0042,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "isobutanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 16.7766,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "isooctane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.9358,
+    "xi": -0.0018,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "isopropanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 19.2645,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "isopropylbenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.3712,
+    "xi": -0.0021,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "isopropyltoluene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.2322,
+    "xi": -0.0026,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "mcresol",
+    "aliases": [
+      "m-cresol",
+      "m_cresol"
+    ],
+    "class": "B",
+    "epsilon": 12.44,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "mesitylene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.265,
+    "xi": -0.0038,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "methanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 32.613,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "methoxyethanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 17.2,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "methylenechloride",
+    "aliases": [
+      "methylene_chloride",
+      "methylene-chloride",
+      "dichloromethane"
+    ],
+    "class": "D",
+    "epsilon": 8.93,
+    "xi": 0.0029,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "methylformamide",
+    "aliases": [
+      "methyl_formamide",
+      "methyl-formamide",
+      "NMF"
+    ],
+    "class": "C",
+    "epsilon": 181.5619,
+    "xi": 0.0005,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "nitrobenzene",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 34.8091,
+    "xi": 0.0012,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "nitroethane",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 28.2896,
+    "xi": -0.0009,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "nitromethane",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 36.5623,
+    "xi": 0.0026,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "nonane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.9605,
+    "xi": -0.0009,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "nonanol",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 8.5991,
+    "xi": 0.0013,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "octane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.9406,
+    "xi": -0.0005,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "octanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 9.8629,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "odichlorobenzene",
+    "aliases": [
+      "o-dichlorobenzene",
+      "o_dichlorobenzene"
+    ],
+    "class": "C",
+    "epsilon": 9.9949,
+    "xi": -0.0011,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "onitrotoluene",
+    "aliases": [
+      "o-nitrotoluene",
+      "o_nitrotoluene"
+    ],
+    "class": "C",
+    "epsilon": 25.6692,
+    "xi": 0.0016,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "pentadecane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.0333,
+    "xi": 0.0,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "pentane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.8371,
+    "xi": -0.002,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "pentanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 15.13,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "perfluorobenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.029,
+    "xi": -0.0063,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "phenylether",
+    "aliases": [
+      "diphenyl ether",
+      "diphenylether"
+    ],
+    "class": "D",
+    "epsilon": 3.73,
+    "xi": 0.0026,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "propanol",
+    "aliases": [],
+    "class": "B",
+    "epsilon": 20.5237,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "pyridine",
+    "aliases": [],
+    "class": "C",
+    "epsilon": 12.9776,
+    "xi": -0.0038,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "secbutanol",
+    "aliases": [
+      "sec-butanol",
+      "sec_butanol"
+    ],
+    "class": "B",
+    "epsilon": 15.9436,
+    "xi": 0.0,
+    "xi_source": "not present in class B equation (2021 paper)"
+  },
+  {
+    "name": "secbutylbenzene",
+    "aliases": [
+      "sec-butylbenzene",
+      "sec_butylbenzene"
+    ],
+    "class": "D",
+    "epsilon": 2.3446,
+    "xi": -0.0016,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "tbutylbenzene",
+    "aliases": [
+      "t-butylbenzene",
+      "t_butylbenzene",
+      "tert-butylbenzene",
+      "tertbutylbenzene"
+    ],
+    "class": "D",
+    "epsilon": 2.3447,
+    "xi": -0.0013,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "tetrachloroethene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.268,
+    "xi": -0.0039,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "tetrahydrofuran",
+    "aliases": [
+      "THF"
+    ],
+    "class": "D",
+    "epsilon": 7.4257,
+    "xi": 0.0016,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "tetrahydrothiophenedioxide",
+    "aliases": [
+      "tetrahydrothiophene_dioxide",
+      "tetrahydrothiophene-dioxide",
+      "sulfolane"
+    ],
+    "class": "C",
+    "epsilon": 43.9622,
+    "xi": 0.0033,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "tetralin",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.771,
+    "xi": 0.0042,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "toluene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.3741,
+    "xi": -0.0046,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "tributylphosphate",
+    "aliases": [
+      "tributyl_phosphate",
+      "tributyl-phosphate",
+      "TBP"
+    ],
+    "class": "D",
+    "epsilon": 8.1781,
+    "xi": -0.0043,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "triethylamine",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.3832,
+    "xi": -0.0026,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "trimethylbenzene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.3653,
+    "xi": -0.0024,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "undecane",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 1.991,
+    "xi": -0.002,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  },
+  {
+    "name": "water",
+    "aliases": [
+      "H2O"
+    ],
+    "class": "A",
+    "epsilon": 78.36,
+    "xi": 0.0,
+    "xi_source": "not present in class A equation (2021 paper)"
+  },
+  {
+    "name": "xylene",
+    "aliases": [],
+    "class": "D",
+    "epsilon": 2.3879,
+    "xi": -0.0036,
+    "xi_source": "2021 Supporting Information Table S1 (page 2); matched author uESE v1.2"
+  }
+]

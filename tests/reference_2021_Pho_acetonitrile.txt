@@ -1,0 +1,50 @@
+          Program uESE. (c) Sergei F. Vyboishchikov, Universitat de Girona
+          March, 2021
+
+
+ Job started  30.04.2021 at 07:45
+ Solvent: ACETONITRILE.   Solvent class: C - polar aprotic.   Epsilon = 35.6881
+
+ Solute file "PhO-_optfreq.inp"
+ CM5 atomic charges used
+ Number of atoms in the solute   12
+ Number of atomic charges   12
+ Total charge    -1.000
+
+
+         Atomic coordinates, charges, and vdW radii:
+               X           Y           Z         Q       R
+   1 C      -0.0000      0.0000     -1.8234   -0.1941   1.70
+   2 C      -0.0000      1.1968     -1.0977   -0.1448   1.70
+   3 C      -0.0000      1.2090      0.2861   -0.1680   1.70
+   4 C       0.0000     -0.0000      1.0775    0.0614   1.70
+   5 C      -0.0000     -1.2090      0.2861   -0.1680   1.70
+   6 C      -0.0000     -1.1968     -1.0977   -0.1448   1.70
+   7 H      -0.0000      0.0000     -2.9074    0.0470   1.20
+   8 H      -0.0000      2.1438     -1.6345    0.0563   1.20
+   9 H      -0.0000      2.1500      0.8287    0.0548   1.20
+  10 H      -0.0000     -2.1500      0.8287    0.0548   1.20
+  11 H      -0.0000     -2.1438     -1.6345    0.0563   1.20
+  12 O       0.0000     -0.0000      2.3416   -0.5108   1.52
+
+ CM5 parameters used
+
+ The van der Waals surface is calculated using the GEPOL93 v.8 program
+     J.L. Pascual-Ahuir et al. J. Comput. Chem. 1994, 15, 1127.
+
+ Total cavity area =       115.714
+ Total cavity volume =      89.302
+ Number of induced surface charges =    387
+
+
+ COSMO electrostatic energy =       -66.946 kcal/mol
+ Correction term =        12.393 kcal/mol
+ Total solvation free energy =       -54.554 kcal/mol
+
+
+ The program is based on the following publications:
+ Vyboishchikov S.F., Voityuk A.A., JCC, 2021, 42. DOI: 10.1002/jcc.26531
+ Voityuk A.A., Vyboishchikov S.F., PCCP, 2020, 22, 14591-14598, DOI: 10.1039/d0cp02667k
+ Voityuk A.A., Vyboishchikov S.F., PCCP, 2019, 21, 18706-18713, DOI: 10.1039/c9cp03010g
+
+ CPU time =  1.078 seconds.

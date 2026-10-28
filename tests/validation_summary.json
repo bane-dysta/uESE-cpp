@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-28",
+  "compiler": "g++ 13.3.0, Linux x86-64",
+  "flags": "-O3 -std=c++17 -Wall -Wextra -Wpedantic",
+  "build_warnings": 0,
+  "test_command": "make test",
+  "assertions_passed": 1386,
+  "author_reference_version": "uESE 1.2, July 2025",
+  "author_reference_sha256": "3017c93591f219a3db797be78347e3209c7ec24f8f4523fee09a4799083f0b08",
+  "tested_cpp_executable_sha256": "ec6c3e60098ebb39d880e0e600ecc33f9f7bb94a65a97ce8686e4c1054d75e6a",
+  "old_2021_Pho_acetonitrile_total_error_kcal_mol": 0.0036388175305,
+  "phophenoxide_92_solvents_max_abs_total_difference_kcal_mol": 0.007710057770097478,
+  "synthetic_76_cases_max_abs_total_difference_kcal_mol": 0.008194100738990073,
+  "limits": [
+    "Author 2025 reference energies are printed to 0.01 kcal/mol.",
+    "This validates implementation, not experimental predictive accuracy.",
+    "No Windows or macOS execution test was performed.",
+    "Unsupported published element/class combinations are rejected.",
+    "SI full solvation energy benchmarks do not supply complete geometries/CM5 charges and are not same-input numerical regression tests.",
+    "2021 SI Table S1 does not list dielectric constants epsilon."
+  ],
+  "paper_table1_complete_pdf_crosscheck": "2021 J Comput Chem printed p.1187, rows kappa,p,g plus SRC and zeta: values and blanks matched with C++ Table1 constants",
+  "si_table_s1_crosscheck": {
+    "source": "Original 2021 Supporting Information p.2 Table S1",
+    "C": 20,
+    "D": 57,
+    "matched": 77,
+    "mismatch": 0,
+    "fixture": "data/table_s1_xi.tsv",
+    "aliases_checked_in_real_solver": 77
+  },
+  "code_changes_1_1": "Added two SI solvent aliases; updated paper provenance, SI source fixture and regression tests. COSMO/correction numerical constants and surface algorithm not changed."
+}
